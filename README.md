@@ -18,7 +18,7 @@
 
 - [图](https://github.com/xiaoxiaoshou/simple-dataStructure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/7.%E5%9B%BE.md)
 
-- [哈希](https://github.com/xiaoxiaoshou/simple-dataStructure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/7.%E5%9B%BE.md)
+- [哈希](https://github.com/xiaoxiaoshou/simple-dataStructure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/8.%E5%93%88%E5%B8%8C.md)
 
 - [查找](https://github.com/xiaoxiaoshou/simple-dataStructure/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/9.%E6%9F%A5%E6%89%BE.md)
 
